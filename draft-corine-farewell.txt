@@ -5,7 +5,8 @@
 Network Working Group                                           K. Garic
 Internet-Draft                                                   M. Frei
 Intended status: Informational                             N. Rustignoli
-Expires: 13 June 2024                                         L. Cameron
+Expires: 13 June 2024                                        J. C. Hugly
+                                                              L. Cameron
                                                                M. Keller
                                                        SCION Association
                                                         11 December 2023
@@ -105,12 +106,12 @@ Acknowledgments
 
 Authors' Addresses
 
-   K. Garic
+   Katarina Garic
    SCION Association
    Email: kga@scion.org
 
 
-   M. Frei
+   Matthias Frei
    SCION Association
    Email: matzf@scion.org
 
@@ -120,11 +121,16 @@ Authors' Addresses
    Email: nic@scion.org
 
 
-   L. Cameron
+   Jean-Christophe Hugly
+   SCION Association
+   Email: jce@scion.org
+
+
+   Luzius Cameron
    SCION Association
    Email: lca@scion.org
 
 
-   M. Keller
+   Marcel Keller
    SCION Association
    Email: mke@scion.org
