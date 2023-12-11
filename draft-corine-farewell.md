@@ -44,7 +44,7 @@ informative:
 
 --- abstract
 
-This document  bids a grateful farewell to our colleague Corine de Kater, who valiantly shepherded the standardization of SCION. 
+This document bids a grateful farewell to our colleague Corine de Kater, who valiantly shepherded the standardization of SCION. 
 
 
 
