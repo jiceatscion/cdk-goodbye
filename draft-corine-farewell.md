@@ -68,19 +68,25 @@ As you embark on a journey in the land of web application firewalls, we felt it 
 
 Your work on SCION brought order to chaos, transforming arcane networking concepts and loads of research papers into a comprehensible SCION book first and then into Internet Drafts.
 
+# Other Achievements
+
+Making a certain new comer feel truly welcome. Taking thoughtful care of your teams mates with nice gestures such as bringing chocolate or never letting supplies run out. Always putting the team first.
+
 # Wishing You the Best
 
-As you venture into new realms beyond SCION, we wish you luck in navigating the treacherous seas of web application firewalls, with new acronyms and documentation challenges.
+As you venture into new realms beyond SCION, we wish you luck in navigating the treacherous seas of web application firewalls, with new acronyms and documentation challenges. We will miss you every day.
 
 # Security Considerations
 
 This Internet Draft is purely fictional and intended for entertainment purposes only. No technical writers were harmed in the creation of this document.
 
-
 # IANA Considerations
 
 This document has no IANA actions.
 
+# Gratitude Considerations
+
+As a way to thank you for being an awesome and tireless coworker, we would like you to enjoy some relaxing time at 47 on us. Please accept this voucher as a token of our gratitude.
 
 --- back
 
