@@ -44,7 +44,7 @@ informative:
 
 --- abstract
 
-This document bids a grateful farewell to our colleague Corine de Kater, who valiantly shepherded the standardization of SCION. 
+This document bids a grateful farewell to our colleague Corine de Kater, who valiantly shepherded the standardization of SCION.
 
 
 
@@ -53,15 +53,15 @@ This document bids a grateful farewell to our colleague Corine de Kater, who val
 # Introduction
 
 Dear Corine,
-As you embark on a journey in the land of web application firewalls, we felt it necessary thank you for your contributions to SCION and to the team. 
+As you embark on a journey in the land of web application firewalls, we felt it necessary thank you for your contributions to SCION and to the team.
 
 # SCION Standardization Achievements
 
-Your work on SCION brought order to chaos, transforming arcane networking concepts and loads of research papers into a comprehensible SCION book first and then into Internet Drafts. 
+Your work on SCION brought order to chaos, transforming arcane networking concepts and loads of research papers into a comprehensible SCION book first and then into Internet Drafts.
 
 # Wishing You the Best
 
-As you venture into new realms beyond SCION, we wish you luck in navigating the treacherous seas of web application firewalls, with new acronyms and documentation challenges. 
+As you venture into new realms beyond SCION, we wish you luck in navigating the treacherous seas of web application firewalls, with new acronyms and documentation challenges.
 
 # Security Considerations
 
