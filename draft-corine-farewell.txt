@@ -1,0 +1,130 @@
+
+
+
+
+Network Working Group                                           K. Garic
+Internet-Draft                                                   M. Frei
+Intended status: Informational                             N. Rustignoli
+Expires: 13 June 2024                                         L. Cameron
+                                                               M. Keller
+                                                       SCION Association
+                                                        11 December 2023
+
+
+                    Farewell to our colleague Corine
+                      draft-corine-farewell-latest
+
+Abstract
+
+   This document bids a grateful farewell to our colleague Corine de
+   Kater, who valiantly shepherded the standardization of SCION.
+
+Discussion Venues
+
+   This note is to be removed before publishing as an RFC.
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/nicorusti/cdk-goodbye.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at https://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on 13 June 2024.
+
+Copyright Notice
+
+   Copyright (c) 2023 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents (https://trustee.ietf.org/
+   license-info) in effect on the date of publication of this document.
+   Please review these documents carefully, as they describe your rights
+   and restrictions with respect to this document.
+
+Table of Contents
+
+   1.  Introduction
+   2.  SCION Standardization Achievements
+   3.  Wishing You the Best
+   4.  Security Considerations
+   5.  IANA Considerations
+   6.  Informative References
+   Acknowledgments
+   Authors' Addresses
+
+1.  Introduction
+
+   Dear Corine, As you embark on a journey in the land of web
+   application firewalls, we felt it necessary thank you for your
+   contributions to SCION and to the team.
+
+2.  SCION Standardization Achievements
+
+   Your work on SCION brought order to chaos, transforming arcane
+   networking concepts and loads of research papers into a
+   comprehensible SCION book first and then into Internet Drafts.
+
+3.  Wishing You the Best
+
+   As you venture into new realms beyond SCION, we wish you luck in
+   navigating the treacherous seas of web application firewalls, with
+   new acronyms and documentation challenges.
+
+4.  Security Considerations
+
+   This Internet Draft is purely fictional and intended for
+   entertainment purposes only.  No technical writers were harmed in the
+   creation of this document.
+
+5.  IANA Considerations
+
+   This document has no IANA actions.
+
+6.  Informative References
+
+   [RFC8140]  Farrel, A., "The Arte of ASCII: Or, An True and Accurate
+              Representation of an Menagerie of Thynges Fabulous and
+              Wonderful in Ye Forme of Character", RFC 8140,
+              DOI 10.17487/RFC8140, April 2017,
+              <https://www.rfc-editor.org/rfc/rfc8140>.
+
+Acknowledgments
+
+Authors' Addresses
+
+   K. Garic
+   SCION Association
+   Email: kga@scion.org
+
+
+   M. Frei
+   SCION Association
+   Email: matzf@scion.org
+
+
+   Nicola Rustignoli
+   SCION Association
+   Email: nic@scion.org
+
+
+   L. Cameron
+   SCION Association
+   Email: lca@scion.org
+
+
+   M. Keller
+   SCION Association
+   Email: mke@scion.org
