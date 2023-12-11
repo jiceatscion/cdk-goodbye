@@ -9,7 +9,7 @@ v: 3
 # area: "IRTF"
 # workgroup: "Path Aware Networking RG"
 keyword: Internet-Draft
-venue:
+# venue:
 #  group: "Path Aware Networking RG"
 #  type: "Research Group"
 #  mail: "panrg@irtf.org"
@@ -20,7 +20,7 @@ author:
      org: SCION Association
      email: kga@scion.org
 
--   ins:  M. Frei
+ -   ins:  M. Frei
      org: SCION Association
      email: matzf@scion.org
 
@@ -40,7 +40,7 @@ author:
 normative:
 
 informative:
-  RFC8140
+  RFC8140:
 
 --- abstract
 
