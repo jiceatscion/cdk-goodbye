@@ -17,10 +17,12 @@ keyword: Internet-Draft
 
 author:
  -   ins:  K. Garic
+     name: Katarina Garic
      org: SCION Association
      email: kga@scion.org
 
  -   ins:  M. Frei
+     name: Matthias Frei
      org: SCION Association
      email: matzf@scion.org
 
@@ -29,11 +31,18 @@ author:
      org: SCION Association
      email: nic@scion.org
 
+ -   ins:  J.C. Hugly
+     name: Jean-Christophe Hugly
+     org: SCION Association
+     email: jce@scion.org
+
  -   ins:  L. Cameron
+     name: Luzius Cameron
      org: SCION Association
      email: lca@scion.org
 
  -   ins:  M. Keller
+     name: Marcel Keller
      org: SCION Association
      email: mke@scion.org
 
